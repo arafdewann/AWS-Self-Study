@@ -3,5 +3,5 @@
 
 <p style="text-align: center;">
     <br />
-    <img src="" alt="Seneca College" style="width: 250px; height: auto;" />
+    <img src="" alt="AWS" style="width: 250px; height: auto;" />
 </p>

@@ -3,5 +3,5 @@
 
 <p style="text-align: center;">
     <br />
-    <img src="" alt="AWS" style="width: 250px; height: auto;" />
+    <img src="https://github.com/arafdewann/AWS-Self-Study/blob/main/aws.png" alt="AWS" style="width: 250px; height: auto;" />
 </p>

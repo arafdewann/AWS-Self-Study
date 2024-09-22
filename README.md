@@ -1,5 +1,5 @@
 # AWS-Self-Study
-<h2>AWS cloud Certifications -- Self  Study  <h2>
+<h2>AWS cloud Certifications -- Self ☁️ Study  <h2>
 <h3> Cloud Journey <h3> 
 <p style="text-align: center;">
     <br />
